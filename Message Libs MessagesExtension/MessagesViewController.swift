@@ -65,7 +65,7 @@ class MessagesViewController: MSMessagesAppViewController {
     
     override func didTransition(to presentationStyle: MSMessagesAppPresentationStyle) {
         // Called after the extension transitions to a new presentation style.
-    
+
         // Use this method to finalize any behaviors associated with the change in presentation style.
     }
 
